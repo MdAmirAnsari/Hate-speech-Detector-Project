@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Data Preprocessing Pipeline for Hate Speech Detection
-This script performs comprehensive text preprocessing including cleaning, tokenization, and feature extraction.
+This script performs comprehensive text preprocessing including cleaning, tokenization, and feature extraction. 
 """
 
 import pandas as pd
