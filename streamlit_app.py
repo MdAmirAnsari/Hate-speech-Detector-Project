@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Streamlit Web Interface for Hate Speech Detection
+Streamlit Web Interface for Hate Speech Detection 
 Upload text files and get instant hate speech predictions with confidence scores.
 """
 
